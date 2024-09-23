@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bereket-Eshete
 - 👀 I’m interested in learning programing and buliding projects
-- 🌱 I’m currently learning server side scripting language.
+- 🌱 I’m currently learning Fullstack web development using Mern stack.
 - 💞️ I’m looking to collaborate on buliding new projects.
 
 
