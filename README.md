@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00D9FF&background=00000000&multiline=true&repeat=false&random=false&width=600&height=80&lines=👋+Hey+There%2C+I'm+Bereket+Eshete" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00D9FF&background=00000000&multiline=true&repeat=false&random=false&width=600&height=80&lines=👋+Hey+There%2C+I'm+Bereket+Eshete" alt="Bereket Eshete" />
 </h1>
 
 <div align="center">
