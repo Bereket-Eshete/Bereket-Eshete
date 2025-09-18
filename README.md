@@ -1,11 +1,13 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/Bereket-Eshete)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="200" alt="AI Banner" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&random=false&width=600&lines=🤖+AI/ML+Engineer+%7C+Full+Stack+Developer+🤖;🧠+Neural+Networks+%7C+Deep+Learning+Enthusiast+🧠;🚀+Python+%7C+TensorFlow+%7C+React+%7C+Node.js+🚀;🔬+Building+Intelligent+Solutions+%7C+Data+Science+🔬;⚡+Transforming+Data+Into+Intelligence%2C+One+Model+at+a+Time+⚡" alt="Typing SVG" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00D9FF&background=00000000&multiline=true&repeat=false&random=false&width=600&height=80&lines=👋+Hey+There%2C+I'm+Bereket+Eshete" alt="Bereket Eshete" />
+<h1 align="center" style="color: #00D9FF; font-size: 3rem; margin: 20px 0;">
+  👋 Hi, I'm Bereket Eshete
 </h1>
 
 <div align="center">
