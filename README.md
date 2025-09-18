@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/Bereket-Eshete)
 
 <h1 align="center" style="color: #00D9FF; font-size: 3rem; margin: 20px 0;">
   👋 Hi, I'm Bereket Eshete
@@ -140,22 +139,6 @@ I'm a passionate **AI/ML Engineer** and **Full Stack Developer** studying at **U
   <a href="https://discord.com/users/bereket_10" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <h3>⭐ Don't forget to star some repositories if you find them interesting! ⭐</h3>
-</div>>
-  <a href="https://ko-fi.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer" />
 </div>
 
 <div align="center">
