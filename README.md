@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="200" alt="AI Banner" />
-</div>
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/Bereket-Eshete)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&random=false&width=600&lines=🤖+AI/ML+Engineer+%7C+Full+Stack+Developer+🤖;🧠+Neural+Networks+%7C+Deep+Learning+Enthusiast+🧠;🚀+Python+%7C+TensorFlow+%7C+React+%7C+Node.js+🚀;🔬+Building+Intelligent+Solutions+%7C+Data+Science+🔬;⚡+Transforming+Data+Into+Intelligence%2C+One+Model+at+a+Time+⚡" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="200" alt="Header" />
 </div>
+
+
 
 <h1 align="center" style="color: #00D9FF; font-size: 3rem; margin: 20px 0;">
   👋 Hi, I'm Bereket Eshete
@@ -28,21 +28,22 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a passionate **AI/ML Engineer** and **Full Stack Developer** currently interning at **ICGOLab**, where I'm diving deep into the fascinating world of artificial intelligence and machine learning. I love building intelligent systems that can learn, adapt, and solve complex real-world problems.
+I'm a passionate **AI/ML Engineer** and **Full Stack Developer** studying at **Unity University** and currently interning at **ICGOLab**, where I'm diving deep into the fascinating world of artificial intelligence and machine learning. I love building intelligent systems that can learn, adapt, and solve complex real-world problems.
 
 ### 🎯 What I Do
 
+- 🎓 **Computer Science Student** at **Unity University**
 - 🔭 Currently working as an **AI/ML Intern at ICGOLab**
-- 🌱 Intensively learning **Machine Learning**, **Deep Learning**, and **Neural Networks**
-- 🧠 Passionate about **AI model development**, **data science**, and **intelligent systems**
-- 🤝 Love collaborating on **AI-driven projects** that make a meaningful impact
-- 📚 Always exploring cutting-edge AI technologies and research
+- 🌱 Learning **Machine Learning** and **Full Stack Web Development**
+- 🧠 Passionate about **AI model development** and **web applications**
+- 🤝 **Open for collaboration** on **innovative projects** that solve real problems
+- 📚 Always exploring new technologies and best practices
 
 ### 🎳 Current Focus
-- 🤖 Mastering **Machine Learning Algorithms** and **Deep Learning Frameworks**
-- 🧠 Building **Neural Networks** for computer vision and NLP tasks
-- 📊 Exploring **Data Science** and **Predictive Analytics**
-- 🌟 Contributing to **AI/ML open-source** projects
+- 🤖 **Machine Learning** and **Deep Learning** frameworks
+- 💻 **Full Stack Development** with modern web technologies
+- 📊 **Data Science** and **Web Application** integration
+- 🌟 Contributing to **open-source** projects
 
 ## 🛠️ Tech Stack & Tools
 
@@ -99,9 +100,7 @@ I'm a passionate **AI/ML Engineer** and **Full Stack Developer** currently inter
 ![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
@@ -129,42 +128,31 @@ I'm a passionate **AI/ML Engineer** and **Full Stack Developer** currently inter
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bereket-Eshete&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bereket-Eshete&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bereket-Eshete&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+
 
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <p><strong>💼 Open for collaboration on exciting projects!</strong></p>
+  
+  <a href="https://www.linkedin.com/in/bereket-eshete-7171a0323" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:bereketeeshete63@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.gg/yourdiscord" target="_blank">
+  <a href="https://discord.com/users/bereket_10" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
-## 💝 Support My Work
+---
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
+  <h3>⭐ Don't forget to star some repositories if you find them interesting! ⭐</h3>
+</div>>
   <a href="https://ko-fi.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
