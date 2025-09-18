@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/yourusername)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/Bereket-Eshete)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&random=false&width=600&lines=🤖+AI/ML+Engineer+%7C+Full+Stack+Developer+🤖;🧠+Neural+Networks+%7C+Deep+Learning+Enthusiast+🧠;🚀+Python+%7C+TensorFlow+%7C+React+%7C+Node.js+🚀;🔬+Building+Intelligent+Solutions+%7C+Data+Science+🔬;⚡+Transforming+Data+Into+Intelligence%2C+One+Model+at+a+Time+⚡" alt="Typing SVG" />
@@ -12,9 +12,9 @@
   
 > *"First, solve the problem. Then, write the code." – John Johnson*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00D9FF&style=flat)](https://github.com/yourusername)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)](https://github.com/yourusername)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername?label=Stars&style=social)](https://github.com/yourusername)
+[![Profile Views](https://komarev.com/ghpvc/?username=Bereket-Eshete&label=Profile%20Views&color=00D9FF&style=flat)](https://github.com/Bereket-Eshete)
+[![GitHub followers](https://img.shields.io/github/followers/Bereket-Eshete?label=Followers&style=social)](https://github.com/Bereket-Eshete)
+[![GitHub Stars](https://img.shields.io/github/stars/Bereket-Eshete?label=Stars&style=social)](https://github.com/Bereket-Eshete)
 
 <div align="center">
   <h3>💭 Daily Inspiration</h3>
@@ -119,22 +119,22 @@ I'm a passionate **AI/ML Engineer** and **Full Stack Developer** currently inter
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bereket-Eshete&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Eshete&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bereket-Eshete&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bereket-Eshete&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bereket-Eshete&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Let's Connect & Collaborate
