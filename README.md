@@ -21,7 +21,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a passionate **AI/ML Engineer** and **Full Stack Developer** studying at **Unity University** and currently interning at **ICGOLab**, where I'm diving deep into the fascinating world of artificial intelligence and machine learning. I love building intelligent systems that can learn, adapt, and solve complex real-world problems.
+I'm a passionate **AI/ML Engineer** and **Full Stack Developer** studying at **Unity University** and currently interning at **iCogLab**, where I'm diving deep into the fascinating world of artificial intelligence and machine learning. I love building intelligent systems that can learn, adapt, and solve complex real-world problems.
 
 ### 🎯 What I Do
 
