@@ -26,7 +26,7 @@ I'm a passionate **AI/ML Engineer** and **Full Stack Developer** studying at **U
 ### 🎯 What I Do
 
 - 🎓 **Computer Science Student** at **Unity University**
-- 🔭 Currently working as an **AI/ML Intern at ICGOLab**
+- 🔭 Currently working as an **AI/ML Intern at iCogLab**
 - 🌱 Learning **Machine Learning** and **Full Stack Web Development**
 - 🧠 Passionate about **AI model development** and **web applications**
 - 🤝 **Open for collaboration** on **innovative projects** that solve real problems
@@ -61,7 +61,6 @@ I'm a passionate **AI/ML Engineer** and **Full Stack Developer** studying at **U
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -74,9 +73,7 @@ I'm a passionate **AI/ML Engineer** and **Full Stack Developer** studying at **U
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -93,7 +90,6 @@ I'm a passionate **AI/ML Engineer** and **Full Stack Developer** studying at **U
 ![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
