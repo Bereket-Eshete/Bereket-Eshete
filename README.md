@@ -27,9 +27,9 @@ I'm a passionate **Full Stack Developer** studying at **Unity University** and c
 
 ## 🛠️ Tech Stack & Tools
 
-<h3 align="center">🎨 Frontend Technologies</h3>
+<h3>🎨 Frontend Technologies</h3>
 
-<div align="center">
+<div>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -43,7 +43,7 @@ I'm a passionate **Full Stack Developer** studying at **Unity University** and c
 
 <h3>⚙️ Backend & Database</h3>
 
-<div align="center">
+<div>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -56,9 +56,9 @@ I'm a passionate **Full Stack Developer** studying at **Unity University** and c
 
 </div>
 
-<h3 align="center">☁️ Cloud & DevOps</h3>
+<h3>☁️ Cloud & DevOps</h3>
 
-<div align="center">
+<div>
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -68,9 +68,9 @@ I'm a passionate **Full Stack Developer** studying at **Unity University** and c
 
 </div>
 
-<h3 align="center">🤖 AI/ML & Data Science</h3>
+<h3>🤖 AI/ML & Data Science</h3>
 
-<div align="center">
+<div>
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -80,9 +80,9 @@ I'm a passionate **Full Stack Developer** studying at **Unity University** and c
 
 </div>
 
-<h3 align="center">🔧 Development Tools</h3>
+<h3>🔧 Development Tools</h3>
 
-<div align="center">
+<div>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
