@@ -9,6 +9,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Bereket-Eshete?label=Followers&style=social)](https://github.com/Bereket-Eshete)
 [![GitHub Stars](https://img.shields.io/github/stars/Bereket-Eshete?label=Stars&style=social)](https://github.com/Bereket-Eshete)
 </div>
+
 ## 🚀 About Me
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
