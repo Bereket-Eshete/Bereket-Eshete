@@ -41,7 +41,7 @@ I'm a passionate **Full Stack Developer** studying at **Unity University** and c
 
 </div>
 
-<h3 align="center">⚙️ Backend & Database</h3>
+<h3>⚙️ Backend & Database</h3>
 
 <div align="center">
 
