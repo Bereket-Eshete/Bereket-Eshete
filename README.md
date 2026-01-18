@@ -5,23 +5,15 @@
 
 <div align="center">
   
-> *"First, solve the problem. Then, write the code." – John Johnson*
-
 [![Profile Views](https://komarev.com/ghpvc/?username=Bereket-Eshete&label=Profile%20Views&color=00D9FF&style=flat)](https://github.com/Bereket-Eshete)
 [![GitHub followers](https://img.shields.io/github/followers/Bereket-Eshete?label=Followers&style=social)](https://github.com/Bereket-Eshete)
 [![GitHub Stars](https://img.shields.io/github/stars/Bereket-Eshete?label=Stars&style=social)](https://github.com/Bereket-Eshete)
-
-<div align="center">
-  <h3>💭 Daily Inspiration</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-</div>
 
 ## 🚀 About Me
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a passionate **AI/ML Engineer** and **Full Stack Developer** studying at **Unity University** and currently interning at **iCogLab**, where I'm diving deep into the fascinating world of artificial intelligence and machine learning. I love building intelligent systems that can learn, adapt, and solve complex real-world problems.
+I'm a passionate **Full Stack Developer** studying at **Unity University** and currently interning at **iCogLab**, where I'm diving deep into the fascinating world of artificial intelligence and machine learning. I love building intelligent systems that can learn, adapt, and solve complex real-world problems.
 
 ### 🎯 What I Do
 
@@ -31,12 +23,6 @@ I'm a passionate **AI/ML Engineer** and **Full Stack Developer** studying at **U
 - 🧠 Passionate about **AI model development** and **web applications**
 - 🤝 **Open for collaboration** on **innovative projects** that solve real problems
 - 📚 Always exploring new technologies and best practices
-
-### 🎳 Current Focus
-- 🤖 **Machine Learning** and **Deep Learning** frameworks
-- 💻 **Full Stack Development** with modern web technologies
-- 📊 **Data Science** and **Web Application** integration
-- 🌟 Contributing to **open-source** projects
 
 ## 🛠️ Tech Stack & Tools
 
@@ -100,7 +86,6 @@ I'm a passionate **AI/ML Engineer** and **Full Stack Developer** studying at **U
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
